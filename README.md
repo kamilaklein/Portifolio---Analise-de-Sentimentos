@@ -1,5 +1,5 @@
-# (**Análise de sentimentos e comportamento no mercado artesanal**) 
-# (**de velas aromáticas**)
+# Análise de sentimentos e comportamento no mercado artesanal
+# de velas aromáticas
 
 ## Objetivo Principal:
 
