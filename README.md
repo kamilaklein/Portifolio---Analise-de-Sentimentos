@@ -1,7 +1,7 @@
-# Análise de sentimentos e comportamento no mercado artesanal 
-de velas aromáticas
+# (**Análise de sentimentos e comportamento no mercado artesanal**) 
+# (**de velas aromáticas**)
 
-Objetivo Principal:
+## Objetivo Principal:
 
 O objetivo principal deste portifólio é investigar o 
 comportamento dos consumidores e as tendências de sentimento em relação 
