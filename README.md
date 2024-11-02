@@ -2,17 +2,22 @@
 
 ## Objetivo Principal:
 
-O objetivo principal deste portifólio é investigar o comportamento dos consumidores e as tendências de sentimento em relação 
-ao mercado artesanal de velas aromáticas, baseados em dados coletados no Instagram. 
-Utilizando técnicas de processamento de linguagem natural (PLN) e 
-mineração de dados, a pesquisa identificará padrões e tendências nas 
-postagens e comentários dos usuários. O objetivo é compreender melhor o 
-que os consumidores valorizam nas velas artesanais e onde há oportunidades 
-de inovação.
+O objetivo principal é investigar e entender o comportamento dos consumidores e analisar sentimentos sobre velas aromaticas no YouTube. Este estudo visa identificar padrões de engajamento e as preferências dos usuários ao terem o contato com conteúdos educacionais e de "faça você mesmo", relacionados ao mercado artesanal de velas. Através das informações obtidas pode-se apoiar artesãos e empresas a criar produtos e conteúdos alinhados às expectativas do público.
 
 ## Escopo:
 
+O projeto foca na coleta de dados de videos no YouTube, especialmente tutoriais sobre velas aromaticas. Nesta análise incluimos:
+
+• Coleta dos comentarios, curtidas e outras interações em vídeos de tutoriais;
+
+• Processamento dos dados coletados para identificar sentimentos (positivos, neutros e negativos) e emoções específicas como (alegria, surpresa, raiva, tristeza ou desgosto).
+
+• Identificação de temas e técnicas mais valorizados e aspectos onde os usuários demonstram maior interesse ou necessidade de esclarecimento.
+
 ## Tecnologias utilizadas:
+
+• Python: Linguagem principal para processamento e análise dos dados.
+• NLTK
 
 ## Requisitos:
 
