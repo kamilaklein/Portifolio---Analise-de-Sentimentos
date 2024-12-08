@@ -3,6 +3,11 @@
 # Índice:
 
 - [Objetivo Principal:](#objetivo-principal)
+- [Escopo:](#escopo)  
+- [Requisitos:](#requisitos)  
+- [Pacotes de entregas:](#pacotesdeentregas)    
+- [Tecnologias utilizadas:](#tecnologiasutilizadas)    
+- [Bibliotecas:](#bibliotecas)
 
 ## Objetivo Principal:
 
