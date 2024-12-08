@@ -2,7 +2,8 @@
 
 ### Pacote 1: Preparação do Projeto
 
-**Configurar o ambiente de desenvolvimento:**
+**Configurar o ambiente de desenvolvimento:**  
+
 <small>
 • Criar containers Docker para PostgreSQL;  
 • Criar um Docker Compose para orquestrar os serviços;
