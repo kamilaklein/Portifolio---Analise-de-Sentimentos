@@ -74,21 +74,29 @@ O projeto foca na coleta de dados de videos no YouTube, especialmente tutoriais 
   - GitHub
   
 
-## Bibliotecas:
- 
-• NLTK (PLN, tokenização, remoção de stop words, sentenças);  
-• spaCy (PLN, p/ manipulação de textos, analise gramatical, extração de informações);  
-• Pandas (p/ manipulação de dados estruturados, tabelas e dados em formato CSV);  
-• Langdetect (detectar idioma);  
-• Streamlit (framework p/ interfaces web interativas);  
-• Plotly.express (gráficos interativos);  
-• Matplotlib (gráficos estáticos e visualizações de dados);  
-• Scikit-learn (modelos de aprendizado supervisionado);  
-• Wordcloud (ferramenta p/ criar nuvem de palavras);   
-• re (módulo da biblioteca Python, limpa e processa textos dos comentários);  
-• Emoji (remover ou analisa-los);  
-• Hugging Face Transformers (fornece ferramentas p/ modelos pré-treinados);  
-• BERT (modelo de linguagem baseado em Transformers);  
+## Bibliotecas Utilizadas:
+
+#### Processamento de Linguagem Natural (PLN):
+- **NLTK**: Tokenização, remoção de stop words, manipulação de sentenças.
+- **spaCy**: Manipulação de textos, análise gramatical, extração de informações.
+- **Langdetect**: Detecção de idiomas.
+- **Emoji**: Remoção ou análise de emojis.
+- **Hugging Face Transformers**: Ferramentas para modelos pré-treinados.
+- **BERT**: Modelo de linguagem baseado em Transformers.
+
+#### Manipulação de Dados:
+- **Pandas**: Manipulação de dados estruturados, tabelas, e arquivos CSV.
+- **re**: Módulo nativo do Python para limpeza e processamento de textos dos comentários.
+
+#### Visualização de Dados:
+- **Streamlit**: Framework para criação de interfaces web interativas.
+- **Plotly Express**: Criação de gráficos interativos.
+- **Matplotlib**: Gráficos estáticos e visualizações de dados.
+- **Wordcloud**: Ferramenta para criar nuvens de palavras.  
+
+#### Machine Learning:
+- **Scikit-learn**: Implementação de modelos de aprendizado supervisionado.  
+
 
 ## Diagramas:  
 
