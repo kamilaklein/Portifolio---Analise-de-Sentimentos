@@ -90,7 +90,8 @@ Ferramentas:
 
 ## Diagrama de Atividades:  
 
-- [Diagrama de Atividades](Diagrama.md)  
+- [Diagrama de Atividades](Diagrama.md)
+- [Diagrama de Relacionamento de Entidade](DiagramaER.md)    
 
 
 
