@@ -66,5 +66,22 @@ Ferramentas:
  • Dbeaver (consulta no banco de dados)  
  • GitHub   
 
+## Bibliotecas:
+ 
+• NLTK (PLN, tokenização, remoção de stop words, sentenças);  
+• spaCy (PLN, p/ manipulação de textos, analise gramatical, extração de informações);  
+• Pandas (p/ manipulação de dados estruturados, tabelas e dados em formato CSV);  
+• Langdetect (detectar idioma);  
+• Streamlit (framework p/ interfaces web interativas);  
+• Plotly.express (gráficos interativos);  
+• Matplotlib (gráficos estáticos e visualizações de dados);  
+• Scikit-learn (modelos de aprendizado supervisionado);  
+• Wordcloud (ferramenta p/ criar nuvem de palavras);   
+• re (módulo da biblioteca Python, limpa e processa textos dos comentários);  
+• Emoji (remover ou analisa-los);  
+• Hugging Face Transformers (fornece ferramentas p/ modelos pré-treinados);  
+• BERT (modelo de linguagem baseado em Transformers);  
+
+
 
 
