@@ -52,5 +52,19 @@ RF07: Deve suportar diferentes navegadores (Chrome, Firefox, Edge) e ser respons
 **Pacote 3: Análise de Sentimentos**  
 **Pacote 4: Visualização de Resultados**    
 **Pacote 5: Documentação e Relatórios**       
-**Pacote 6: Trabalhos Futuros**      
+**Pacote 6: Trabalhos Futuros**     
+
+
+## Tecnologias aplicadas:
+
+Linguagens de programação: Python  
+Banco de dados: PostgreSQL  
+Ferramentas:
+Jira  
+Visual Studio Code  
+Docker (gerenciar o ambiente de desenvolvimento)  
+Dbeaver (consulta no banco de dados)  
+GitHub   
+
+
 
