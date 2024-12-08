@@ -1,5 +1,3 @@
-# Análise de sentimentos e comportamento no mercado artesanal de velas aromáticas
-
 # Índice:
 
 - [Objetivo Principal:](#objetivo-principal)
@@ -8,6 +6,8 @@
 - [Pacotes de entregas:](#pacotesdeentregas)    
 - [Tecnologias utilizadas:](#tecnologiasutilizadas)    
 - [Bibliotecas:](#bibliotecas)
+
+# Análise de sentimentos e comportamento no mercado artesanal de velas aromáticas  
 
 ## Objetivo Principal:
 
