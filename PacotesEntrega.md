@@ -17,7 +17,7 @@
 > • Coletar informações de vídeos e salvar no banco de dados;  
 > • Coletar comentários e aplicar filtro de idioma;   
 
-### Pacote 3: Análise de Sentimentos**  
+### Pacote 3: Análise de Sentimentos    
 
 **Implementar análise de sentimentos:**     
 
@@ -35,13 +35,13 @@
 > • Aplicar testes de acurácia com dados rotulados;  
 > • Gerar relatórios de classificação e acurácia;  
 
-**Pacote 4: Visualização de Resultados - Criar visualização no Streamlit:**  
+### Pacote 4: Visualização de Resultados - Criar visualização no Streamlit:   
 
 > • Desenvolver gráficos de polaridade e emoções;  
 > • Criar nuvem de palavras;  
 > • Implementar análise temporal;  
 
-**Pacote 5: Documentação e Relatórios**     
+### Pacote 5: Documentação e Relatórios       
  
 **Documentar o projeto:**      
 
@@ -54,7 +54,7 @@
 > • Apresentar gráficos e insights obtidos;  
 > • Criar slide de apresentação final;  
  
-**Pacote 6: Trabalhos Futuros - Planejar melhorias no projeto:**    
+### Pacote 6: Trabalhos Futuros - Planejar melhorias no projeto:     
 
 > • Estender análise para outras palavras-chave ou idiomas;  
 > • Criar uma aplicação web completa para usuários finais.  
