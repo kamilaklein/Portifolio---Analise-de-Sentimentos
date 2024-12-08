@@ -45,7 +45,7 @@ RF07: Deve suportar diferentes navegadores (Chrome, Firefox, Edge) e ser respons
 
 ## Pacotes de entregas:
 
-
+[Mais informações sobres os pacotes](PacotesEntrega.md)
 
 **Pacote 1: Preparação do Projeto**  
 **Pacote 2: Coleta de Dados do YouTube**   
