@@ -3,10 +3,10 @@
 - [Objetivo Principal:](#objetivo-principal)
 - [Escopo:](#escopo)  
 - [Requisitos:](#requisitos)  
-- [Pacotes de entregas:](#pacotesdeentregas)    
-- [Tecnologias utilizadas:](#tecnologiasutilizadas)    
+- [Pacotes de entregas:](#pacotes-de-entregas)    
+- [Tecnologias utilizadas:](#tecnologias-utilizadas)    
 - [Bibliotecas:](#bibliotecas)  
-- [Diagrama de Atividades](#diagramadeatividades)  
+- [Diagrama de Atividades](#diagrama-de-atividades)  
 
 # Análise de sentimentos e comportamento no mercado artesanal de velas aromáticas  
 
