@@ -4,10 +4,10 @@
 
 **Configurar o ambiente de desenvolvimento:**
 
-- Criar containers Docker para PostgreSQL;
-- Criar um Docker Compose para orquestrar os serviços;  
+• Criar containers Docker para PostgreSQL;  
+• Criar um Docker Compose para orquestrar os serviços;
 
-Criar banco de dados no PostgreSQL:    
+**Criar banco de dados no PostgreSQL:**     
 
 • Estruturar tabelas (videos, comentarios).  
 
