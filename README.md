@@ -14,11 +14,6 @@ O projeto foca na coleta de dados de videos no YouTube, especialmente tutoriais 
 
 • Identificação de temas e técnicas mais valorizados e aspectos onde os usuários demonstram maior interesse ou necessidade de esclarecimento.
 
-## Tecnologias utilizadas:
-
-• Python: Linguagem principal para processamento e análise dos dados.
-• NLTK
-
 ## Requisitos:
 
 ### Requisitos Funcionais
@@ -55,7 +50,7 @@ RF07: Deve suportar diferentes navegadores (Chrome, Firefox, Edge) e ser respons
 **Pacote 6: Trabalhos Futuros**     
 
 
-## Tecnologias aplicadas:
+## Tecnologias utilizadas:
 
 Linguagens de programação: **Python**  
 Banco de dados: **PostgreSQL**  
