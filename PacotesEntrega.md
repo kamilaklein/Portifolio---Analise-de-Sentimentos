@@ -1,11 +1,11 @@
 ## Pacotes de entregas:
 
-**Pacote 1: Preparação do Projeto**  
+### Pacote 1: Preparação do Projeto
 
-Configurar o ambiente de desenvolvimento:    
+**Configurar o ambiente de desenvolvimento:**
 
-• Criar containers Docker para PostgreSQL;  
-• Criar um Docker Compose para orquestrar os serviços;  
+- Criar containers Docker para PostgreSQL;
+- Criar um Docker Compose para orquestrar os serviços;  
 
 Criar banco de dados no PostgreSQL:    
 
