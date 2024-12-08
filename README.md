@@ -5,7 +5,8 @@
 - [Requisitos:](#requisitos)  
 - [Pacotes de entregas:](#pacotesdeentregas)    
 - [Tecnologias utilizadas:](#tecnologiasutilizadas)    
-- [Bibliotecas:](#bibliotecas)
+- [Bibliotecas:](#bibliotecas)  
+- [Diagrama de Atividades](#diagramadeatividades)  
 
 # Análise de sentimentos e comportamento no mercado artesanal de velas aromáticas  
 
@@ -85,6 +86,9 @@ Ferramentas:
 • Emoji (remover ou analisa-los);  
 • Hugging Face Transformers (fornece ferramentas p/ modelos pré-treinados);  
 • BERT (modelo de linguagem baseado em Transformers);  
+
+## Diagrama de Atividades:  
+
 
 
 
