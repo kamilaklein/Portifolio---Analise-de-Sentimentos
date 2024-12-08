@@ -23,39 +23,84 @@ O projeto foca na coleta de dados de videos no YouTube, especialmente tutoriais 
 
 ### Requisitos Funcionais
 
-• Coletar dados do Instagram, incluindo 
-postagens, comentários e interações relevantes relacionadas ao 
-mercado de velas aromáticas.
+RF01: A aplicação deve ser capaz de coletar informações de vídeos tutoriais sobre velas aromáticas, incluindo título, descrição, data de publicação, número de visualizações, curtidas e comentários.  
+RF02: Deve acessar a API do YouTube para capturar comentários e metadados relevantes.  
+RF03: A aplicação deve utilizar técnicas de PLN para analisar o conteúdo textual dos comentários, identificando sentimentos expressos pelos usuários.  
+RF04: Deve classificar os sentimentos em categorias (positivos, negativos e neutros) e explorar sentimentos mais específicos, como emoções (felicidade, raiva, surpresa, etc.).  
+RF05: A aplicação deve identificar padrões e tendências nos comentários, como termos frequentemente usados e temas relevantes relacionados aos tutoriais.  
+RF06: A aplicação deve apresentar os resultados da análise por meio de gráficos interativos e visualizações dinâmicas, acessíveis em uma interface gráfica.  
+RF07: Deve incluir visualizações como nuvens de palavras, gráficos de sentimentos e tendências temporais.  
+RF08: Deve permitir a exportação dos resultados da análise para formatos como CSV.  
 
-• Utilizar técnicas de processamento de linguagem 
-natural (PLN) para analisar o conteúdo textual das postagens e 
-comentários, identificando sentimentos expressos pelos usuários.
-
-• Classificar os sentimentos expressos pelos consumidores em relação às velas aromáticas, distinguindo entre 
-sentimentos positivos, negativos e neutros.
-
-• Apresentar os resultados da análise de sentimentos por 
-meio de gráficos interativos e visualizações de dados em um website, 
-facilitando a compreensão e interpretação dos insights.
 
 ### Requisitos não Funcionais:
 
-• Lidar com grandes volumes de dados de 
-forma eficiente, garantindo tempos de resposta rápidos para análise e 
-visualização de resultados.
+RF01: A aplicação deve ser capaz de lidar com a análise de comentários de até 25 vídeos por vez, garantindo desempenho consistente.  
+RF02: A aplicação deve atingir pelo menos 85% de precisão na análise de sentimentos para evitar erros significativos de classificação.  
+RF03: Os dados coletados devem ser tratados de forma anônima, sem associar informações pessoais aos usuários.  
+RF04: A aplicação deve apresentar os resultados da análise por meio de gráficos interativos e visualizações dinâmicas, acessíveis em uma interface gráfica.  
+RF05: A aplicação deve seguir as políticas de privacidade e uso da API do YouTube, garantindo conformidade com as regulamentações de dados.  
+RF06: A interface deve ser intuitiva, permitindo fácil navegação entre diferentes visualizações e exportações.  
+RF07: Deve suportar diferentes navegadores (Chrome, Firefox, Edge) e ser responsivo em desktops.  
 
-• Apresentar alta precisão na análise de sentimentos, 
-minimizando erros de classificação e interpretação das emoções 
-expressas pelos usuários.
+## Pacotes de entregas:
 
-• O sistema deve ser escalável, capaz de lidar com um aumento no 
-número de usuários e na quantidade de dados sem comprometer sua 
-eficiência ou desempenho.
+**Pacote 1: Preparação do Projeto**  
 
-• Garantir a segurança e privacidade dos dados dos 
-usuários, cumprindo as regulamentações de proteção de dados e 
-implementando medidas de segurança robustas.
+Configurar o ambiente de desenvolvimento:    
 
+• Criar containers Docker para PostgreSQL;  
+• Criar um Docker Compose para orquestrar os serviços;  
 
+Criar banco de dados no PostgreSQL:    
 
+• Estruturar tabelas (videos, comentarios).  
+
+**Pacote 2: Coleta de Dados do YouTube - Desenvolver script de coleta de dados:** 
+
+• Implementar busca de vídeos pela API do YouTube;  
+• Coletar informações de vídeos e salvar no banco de dados;  
+• Coletar comentários e aplicar filtro de idioma;   
+
+**Pacote 3: Análise de Sentimentos**
+
+Implementar análise de sentimentos:    
+
+• Integrar modelo de análise de polaridade;  
+• Integrar modelo de análise de emoções;  
+• Atualizar resultados no banco;  
+
+Criar funções de pré-processamento:     
+
+• Limpar e normalizar textos;  
+• Detectar idioma e filtrar apenas comentários em português;  
+
+Testar modelos de análise:    
+
+• Aplicar testes de acurácia com dados rotulados;  
+• Gerar relatórios de classificação e acurácia;  
+
+**Pacote 4: Visualização de Resultados - Criar visualização no Streamlit:**  
+
+• Desenvolver gráficos de polaridade e emoções;  
+• Criar nuvem de palavras;  
+• Implementar análise temporal;  
+
+**Pacote 5: Documentação e Relatórios**     
+ 
+Documentar o projeto:    
+
+• Criar README no GitHub com as instruções de uso;  
+• Detalhar a estrutura do banco de dados e o fluxo do programa;  
+
+Preparar relatório para o TCC:    
+
+• Explicar os métodos utilizados (coleta, análise, visualização);  
+• Apresentar gráficos e insights obtidos;  
+• Criar slide de apresentação final;  
+ 
+**Pacote 6: Trabalhos Futuros - Planejar melhorias no projeto:**    
+
+• Estender análise para outras palavras-chave ou idiomas;  
+• Criar uma aplicação web completa para usuários finais.  
 
