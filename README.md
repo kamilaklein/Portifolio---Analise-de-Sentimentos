@@ -89,8 +89,8 @@ O projeto foca na coleta de dados de videos no YouTube, especialmente tutoriais 
 
 ## Diagramas:  
 
-- [Diagrama de Atividades](Diagrama.md)
-- [Diagrama de Relacionamento de Entidade](DiagramaER.md)    
+- [Diagrama de Atividades](Diagramas/Diagramadeatividade.md)
+- [Diagrama ER](Diagramas/DiagramaER.md)    
 
 
 
