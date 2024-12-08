@@ -57,14 +57,14 @@ RF07: Deve suportar diferentes navegadores (Chrome, Firefox, Edge) e ser respons
 
 ## Tecnologias aplicadas:
 
-Linguagens de programação: Python  
-Banco de dados: PostgreSQL  
+Linguagens de programação: **Python**  
+Banco de dados: **PostgreSQL**  
 Ferramentas:
-> Jira  
-> Visual Studio Code  
-> Docker (gerenciar o ambiente de desenvolvimento)  
-> Dbeaver (consulta no banco de dados)  
-> GitHub   
+ • Jira  
+ • Visual Studio Code  
+ • Docker (gerenciar o ambiente de desenvolvimento)  
+ • Dbeaver (consulta no banco de dados)  
+ • GitHub   
 
 
 
