@@ -6,7 +6,7 @@
 - [Pacotes de entregas:](#pacotes-de-entregas)    
 - [Tecnologias utilizadas:](#tecnologias-utilizadas)    
 - [Bibliotecas:](#bibliotecas)  
-- [Diagrama de Atividades](#diagrama-de-atividades)  
+- [Diagramas](#diagramas)  
 
 # Análise de sentimentos e comportamento no mercado artesanal de velas aromáticas  
 
