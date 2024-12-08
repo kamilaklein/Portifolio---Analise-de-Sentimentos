@@ -1,5 +1,9 @@
 # Análise de sentimentos e comportamento no mercado artesanal de velas aromáticas
 
+# Índice:
+
+- [Objetivo Principal:](#objetivo-principal)
+
 ## Objetivo Principal:
 
 O objetivo principal é investigar e entender o comportamento dos consumidores e analisar sentimentos sobre velas aromaticas no YouTube. Este estudo visa identificar padrões de engajamento e as preferências dos usuários ao terem o contato com conteúdos educacionais e de "faça você mesmo", relacionados ao mercado artesanal de velas. Através das informações obtidas pode-se apoiar artesãos e empresas a criar produtos e conteúdos alinhados às expectativas do público.
