@@ -88,7 +88,7 @@ Ferramentas:
 • Hugging Face Transformers (fornece ferramentas p/ modelos pré-treinados);  
 • BERT (modelo de linguagem baseado em Transformers);  
 
-## Diagrama de Atividades:  
+## Diagramas:  
 
 - [Diagrama de Atividades](Diagrama.md)
 - [Diagrama de Relacionamento de Entidade](DiagramaER.md)    
