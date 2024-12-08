@@ -61,15 +61,18 @@ O projeto foca na coleta de dados de videos no YouTube, especialmente tutoriais 
 
 
 
-## Tecnologias utilizadas:
+## Tecnologias Utilizadas:
 
-**Linguagens de programação:** Python  
-**Banco de dados:** PostgreSQL  
-**Ferramentas:**  • Jira  
-                  • Visual Studio Code  
-                  • Docker (gerenciar o ambiente de desenvolvimento)  
-                  • Dbeaver (consulta no banco de dados)  
-                  • GitHub   
+- **Linguagem de Programação:** Python
+- **Banco de Dados:** PostgreSQL
+- **Ferramentas de Desenvolvimento:**
+  - Visual Studio Code
+  - Docker (gerenciar o ambiente de desenvolvimento)
+  - DBeaver (consulta no banco de dados)
+- **Ferramentas de Gerenciamento e Controle:**
+  - Jira
+  - GitHub
+  
 
 ## Bibliotecas:
  
