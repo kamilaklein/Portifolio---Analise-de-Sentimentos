@@ -81,7 +81,6 @@ O projeto foca na coleta de dados de videos no YouTube, especialmente tutoriais 
 - **spaCy**: Manipulação de textos, análise gramatical, extração de informações.
 - **Langdetect**: Detecção de idiomas.
 - **Emoji**: Remoção ou análise de emojis.
-- **Hugging Face Transformers**: Ferramentas para modelos pré-treinados.
 - **BERT**: Modelo de linguagem baseado em Transformers.
 
 #### Manipulação de Dados:
@@ -93,10 +92,6 @@ O projeto foca na coleta de dados de videos no YouTube, especialmente tutoriais 
 - **Plotly Express**: Criação de gráficos interativos.
 - **Matplotlib**: Gráficos estáticos e visualizações de dados.
 - **Wordcloud**: Ferramenta para criar nuvens de palavras.  
-
-#### Machine Learning:
-- **Scikit-learn**: Implementação de modelos de aprendizado supervisionado.  
-
 
 ## Diagramas:  
 
